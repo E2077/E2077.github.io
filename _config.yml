@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # 只要在这里输入任何东西，就可以得到一个有效的RSS图标
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # 你的stackoverflow资料，例如 "users/50476/bart-kiers"
   youtube: # 频道/<your_long_string> 或 user/<user-name>（用户名称）。
   googleplus: # 在你的个人资料用户名中，任何在plus.google.com/之后的内容。

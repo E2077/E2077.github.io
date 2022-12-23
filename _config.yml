@@ -9,7 +9,7 @@ name: E2077
 description: 欢迎来到我的博客
 
 # 你的头像或个人照片的URL（你可以使用你的GitHub个人照片）
-avatar: https://profile-avatar.csdnimg.cn/524fd8edb4784edcb477f940ae03d08d_u013913399.jpg
+avatar: https://github.com/E2077/E2077.github.io/blob/master/IMG_20221020_100607.jpg?raw=true
 
 #
 # 下面的标志是可选的
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: E2077/E2077.github.io
   instagram:
   linkedin:
   pinterest:

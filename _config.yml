@@ -1,21 +1,21 @@
 #
-# This file contains configuration flags to customize your site
+# 这个文件包含配置标志，用于定制你的网站
 #
 
-# Name of your site (displayed in the header)
-name: Your Name
+# 你的网站的名称（显示在页眉处）
+name: E2077
 
-# Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+# 简短的简历或描述（显示在页眉）。
+description: 欢迎来到我的博客
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# 你的头像或个人照片的URL（你可以使用你的GitHub个人照片）
+avatar: https://profile-avatar.csdnimg.cn/524fd8edb4784edcb477f940ae03d08d_u013913399.jpg
 
 #
-# Flags below are optional
+# 下面的标志是可选的
 #
 
-# Includes an icon in the footer for each username you enter
+# 包括在页脚为你输入的每个用户名设置一个图标
 footer-links:
   dribbble:
   email:
@@ -25,40 +25,40 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: # 只要在这里输入任何东西，就可以得到一个有效的RSS图标
   twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow: # 你的stackoverflow资料，例如 "users/50476/bart-kiers"
+  youtube: # 频道/<your_long_string> 或 user/<user-name>（用户名称）。
+  googleplus: # 在你的个人资料用户名中，任何在plus.google.com/之后的内容。
 
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
+# 输入你的Discuz短名（不是你的用户名），以便在帖子上发表评论
+# 你可以在Discuz账户的设置页面找到你的短名
 disqus:
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+# 输入你的谷歌分析网络跟踪代码（如UA-2110908-2）以激活跟踪功能
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+# 你的网站URL（例如：http://barryclark.github.io 或 http://www.barryclark.co）。
+# 用于Sitemap.xml和你的RSS提要
 url:
 
-# If you're hosting your site at a Project repository on GitHub pages
+# 如果你把网站托管在GitHub的项目库中，那么你的网页
 # (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# 而不是你的用户仓库(http://yourusername.github.io)
+# 那就在这里加入baseurl，像这样。"/repository-name"
 baseurl: ""
 
 #
-# !! You don't need to change any of the configuration flags below !!
+# !! 你不需要改变下面的任何配置标志!
 #
 
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
+# 你现在使用的Jekyll的版本
 version: v1.2.0
 
-# Jekyll 3 now only supports Kramdown for Markdown
+# Jekyll 3现在只支持Markdown的Kramdown了
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
@@ -68,16 +68,16 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
+# 设置 Sass 参数目录，因为我们使用的是 @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-# Use the following plug-ins
+# 使用以下插件
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-# Exclude these files from your production _site
+# 从你的生产网站中排除这些文件
 exclude:
   - Gemfile
   - Gemfile.lock
